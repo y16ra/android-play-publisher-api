@@ -14,6 +14,9 @@ dependencies.
 3. Import the Java sample code into your favorite IDE and reference all libraries in the /lib folder
 as well as the google-api-services-androidpublisher-v2.jar from the sample project.
 
+### Use maven or gradle
+refer to : https://developers.google.com/api-client-library/java/apis/androidpublisher/v2
+
 ## Getting started
 To use the Google Play Developer API you need to create or reuse an existing API project in the
 Google Api console, https://console.developers.google.com/. You can either use the API with a client
